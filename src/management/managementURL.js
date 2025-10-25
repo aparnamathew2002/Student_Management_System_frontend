@@ -1,2 +1,2 @@
-const BASEURL = "http://localhost:5000";
+const BASEURL = "https://student-management-system-backend-z5nn.onrender.com";
 export default BASEURL;
